@@ -34,8 +34,6 @@ Agora que você tem o `composer.phar` no seu projeto, execute o seguinte comando
 php composer.phar install
 
 
-### 3. Inicie o Servidor Local
-
 Após instalar as dependências e configurar o Firebase, inicie o servidor PHP com:
 
 ```bash
